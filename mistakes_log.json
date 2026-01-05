@@ -1,0 +1,9 @@
+{
+  "mistakes": {
+    "missed_weather": 1,
+    "missed_research": 5,
+    "incomplete_multi_query": 4
+  },
+  "total_runs": 88,
+  "successful_runs": 82
+}
