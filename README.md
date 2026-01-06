@@ -21,9 +21,8 @@ feedback-based adaptation
 stronger rules emerging from repeated mistakes
 
 # System Architecture (Agent Workflow)
-query → agent_node → tool_node → summary_node
-        ↓
-   evaluate_node → learn_node → memory.json
+![System Architecture](https://raw.githubusercontent.com/USERNAME/REPO/main/system_architecture_diagram.png)
+
 
 Roles of Each Component
 Component	Responsibility
