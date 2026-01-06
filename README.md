@@ -25,16 +25,8 @@ stronger rules emerging from repeated mistakes
   <img src="https://raw.githubusercontent.com/Pratyush-Basu/self-improving-tool-agent/main/system_architecture_diagram.png" width="750">
 </p>
 
-Roles of Each Component
-Component	Responsibility
-agent_node -	Decides routing → which tool(s) to call
-tool_node -	Executes tools in routed order
-summary_node -	Combines results into final answer
-evaluate_node -	Detects mistakes and logs them
-learn_node -	Saves learning to persistent memory
-memory.py -	Stores mistake counts + generates rules
 
-The agent improves across runs because memory persists between executions.
+
 
 # Learning & Feedback Logic
 
