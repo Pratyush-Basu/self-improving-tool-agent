@@ -21,8 +21,9 @@ feedback-based adaptation
 stronger rules emerging from repeated mistakes
 
 # System Architecture (Agent Workflow)
-![System Architecture](https://raw.githubusercontent.com/USERNAME/REPO/main/system_architecture_diagram.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pratyush-Basu/self-improving-tool-agent/main/system_architecture_diagram.png" width="750">
+</p>
 
 Roles of Each Component
 Component	Responsibility
